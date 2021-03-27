@@ -1,14 +1,3 @@
-/*
- * Author  : xypnox
- * Twitter : @xypnox
- * Github  : @xypnox
- *
- * Based on theme by Aditya Shakya
- * Twitter : @adi1090x
- *
- */
-
-
 configuration {
 	font:							"Iosevka 16";
     show-icons:                     true;
